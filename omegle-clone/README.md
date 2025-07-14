@@ -1,0 +1,1 @@
+# Omegle Clone\n\nRun `npm run dev` to start both client and server.
